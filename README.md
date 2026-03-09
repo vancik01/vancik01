@@ -1,1 +1,1 @@
-[![Vibe Statistics](https://api.vibenalytics.dev/api/embed/270c066e-ab39-4e73-ba56-0d410ec2ad78.svg)](https://claudnalytics.com)
+[![Vibe Statistics](https://api.vibenalytics.dev/api/embed/86fff14f-18c1-4cfb-b0b2-0eb2b645fa44.svg)](https://vibenalytics.dev)
